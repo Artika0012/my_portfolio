@@ -157,7 +157,7 @@ section:nth-child(2n+1){
 .skill-progress{
     width:10rem;
     height: 2rem;
-    background-color:rgb(177, 170, 170);
+    background-color:rgb(211, 211, 211);
     border:rgb(12, 12, 12) 2px;
     border-radius:1rem;
     overflow: hidden;
@@ -441,7 +441,7 @@ button:focus{
     position: absolute;
     width: 0.5rem;
     height:0.5rem;
-    background-color: red;
+    background-color: white;
     right:-9%;
     z-index: 1;
     
